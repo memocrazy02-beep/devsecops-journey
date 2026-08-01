@@ -20,4 +20,8 @@ Es el kernel de linux pero empaquetado junto con software adicional como gestor 
 **Ejemplos de distribuciones:**
 -Ubuntu,Fedora,Arch,Kali,Gentoo y muchas otras mas
 
-##
+## Bootloader
+Es el software que se encarga de localizar y ejecutar el kernel para cargar el sistema operativo
+
+**Ejemplos de Bootloader**
+
